@@ -3,8 +3,10 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 
 | Event Name | Location | Tech Focus | Event Date | CFP Due Date | URL |
 |------------|----------|--------------|--------------|--------------|-------|
+|TEMPLATE|City, State|Awesome Tech|2018-01-01|2018-01-01|[Apply](https://google.com)|
 |Wonder Women Tech|Washington, D.C.|All Open Source|2018-01-26|2018-01-13|[Apply](https://wonderwomentech.com/dc)|
 |Developer Week|San Francisco, CA|Variety|2018-02-03|2017-11-30|[Apply](http://www.developerweek.com/)|
+|DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
