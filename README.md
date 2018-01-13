@@ -9,6 +9,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
+|OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
 
 
