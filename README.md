@@ -12,6 +12,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
+|All Things Open|Raleigh, NC|Open Source|2018-10-21|TBD|[Apply](https://allthingsopen.org/)|
 
 
 ## Contributing Guidelines
