@@ -4,6 +4,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 | Event Name | Location | Tech Focus | Event Date | CFP Due Date | URL |
 |------------|----------|--------------|--------------|--------------|-------|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
+|Wonder Women Tech|Washington, D.C.|All Open Source|2018-01-26|2018-01-13|[Apply](https://wonderwomentech.com/dc)|
 
 ## Contributing Guidelines
 Please be courteous and keep the exact same format as the first example.
