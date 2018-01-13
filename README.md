@@ -15,7 +15,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 
 
 ## Contributing Guidelines
-Please be courteous and keep the exact same format as the first example.
+Please be courteous and keep the exact same format as the first example. It would be lovely if you can keep the events in order of "EVENT DATE." :)
 
 Location should include city, state or town & country
 
