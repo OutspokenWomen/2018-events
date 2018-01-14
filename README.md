@@ -17,10 +17,11 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |WPCampus 2018|TBD|WordPress, Higher Ed|July 2018|Open Feb 2018|[Apply](https://wpcampus.org/)|
+|Drupal Camp Colorado|Denver, Co|Drupal|2018-8-3|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
 |All Things Open|Raleigh, NC|Open Source|2018-10-21|TBD|[Apply](https://allthingsopen.org/)|
-
+|Bay Area Drupal(BAD) Camp|Berkeley, Ca|Drupal|2018-10-24|TBD|[Apply](https://badcamp.net/)|
 
 ## Contributing Guidelines
 Please be courteous and keep the exact same format as the first example. It would be lovely if you can keep the events in order of "EVENT DATE." :)
