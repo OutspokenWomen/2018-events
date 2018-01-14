@@ -11,7 +11,9 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |MidCamp|Chicago, IL|Drupal|2018-03-08|2018-01-26|[Apply](https://www.midcamp.org/submitted-sessions)|
 |Midwest PHP|Bloomington, MN|PHP|2018-03-09|2018-01-01|[Apply](https://2018.midwestphp.org/)|
 |CSUN Assistive Technology Conference|San Diego, CA|Accessibility|2018-03-19|2017-10-03|[Apply](http://www.csun.edu/cod/conference/2018/sessions/index.php)|
+|NERDSummit|Amherst, MA|All Open Source|2018-03-17|2018-01-29|[Apply](http://nerdsummit.org/)|
 |HackWest|Salt Lake City, UT|InfoSec, Testing|2018-03-21|2018-01-01|[Apply](https://hackwest.org/)|
+|SANDcamp|San Diego, CA|Drupal|2018-03-23|2018-03-01|[Apply](https://www.sandcamp.org/)|
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
