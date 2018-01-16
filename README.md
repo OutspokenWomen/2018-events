@@ -38,10 +38,10 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |WordCamp Atlanta|Atlanta, GA|WordPress|2018-04-13|2018-02-02|[Apply](https://2018.atlanta.wordcamp.org/2018/01/09/call-for-speakers/)|
 |WordCamp London|London, United Kingdom|WordPress|2018-04-13|2018-02-05|[Apply](https://2018.london.wordcamp.org/2017/12/20/call-for-speakers-wordcamp-london-2018/)|
-|WordCamp San Diego|San Diego, CA|WordPress|2018-03-14|Open Feb 2018|[Apply](https://2018.sandiego.wordcamp.org/)|
+|WordCamp San Diego|San Diego, CA|WordPress|2018-03-14|TBD|[Apply](https://2018.sandiego.wordcamp.org/)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |WordCamp Retreat Soltau|Soltau, Germany|WordPress|2018-05-04|2018-02-18|[Apply](https://2018-soltau.retreat.wordcamp.org/call-for-speakers-activities/)|
-|WordCamp Bari|Bari, Italy|WordPress|2018-05-11|Open 2018|[Apply](https://2018.bari.wordcamp.org/)|
+|WordCamp Bari|Bari, Italy|WordPress|2018-05-11|TBD|[Apply](https://2018.bari.wordcamp.org/)|
 |WordCamp Dayton|Dayton, OH|WordPress|2018-05-18|2018-02-15|[Apply](https://2018.dayton.wordcamp.org/2017/12/29/speaker-submissions-are-open/)|
 |WordCamp Belfast|Belfast, Northern Ireland|WordPress|2018-05-26|2018-03-31|[Apply](https://2018.belfast.wordcamp.org/call-for-speakers/)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
