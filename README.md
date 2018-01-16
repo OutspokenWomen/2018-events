@@ -45,7 +45,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |WordCamp Dayton|Dayton, OH|WordPress|2018-05-18|2018-02-15|[Apply](https://2018.dayton.wordcamp.org/2017/12/29/speaker-submissions-are-open/)|
 |WordCamp Belfast|Belfast, Northern Ireland|WordPress|2018-05-26|2018-03-31|[Apply](https://2018.belfast.wordcamp.org/call-for-speakers/)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
-|WordCamp Europe|Belgrade, Serbia|2018-06-14|2018-01-15|[Apply](https://2018.europe.wordcamp.org/)|
+|WordCamp Europe|Belgrade, Serbia|WordPress|2018-06-14|2018-01-15|[Apply](https://2018.europe.wordcamp.org/)|
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |WPCampus 2018|TBD|WordPress, Higher Ed|July 2018|Open Feb 2018|[Apply](https://wpcampus.org/)|
 |Drupal Camp Colorado|Denver, Co|Drupal|2018-8-3|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
