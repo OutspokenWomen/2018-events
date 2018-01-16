@@ -14,6 +14,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |NERDSummit|Amherst, MA|All Open Source|2018-03-17|2018-01-29|[Apply](http://nerdsummit.org/)|
 |HackWest|Salt Lake City, UT|InfoSec, Testing|2018-03-21|2018-01-01|[Apply](https://hackwest.org/)|
 |SANDcamp|San Diego, CA|Drupal|2018-03-23|2018-03-01|[Apply](https://www.sandcamp.org/)|
+|CodePaLouSa|Louisville, KY|All Things SDLC|2018-03-28|01-19-18|[Apply](http://cplspeakers.azurewebsites.net/)|
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
@@ -24,6 +25,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
 |All Things Open|Raleigh, NC|Open Source|2018-10-21|TBD|[Apply](https://allthingsopen.org/)|
 |Bay Area Drupal(BAD) Camp|Berkeley, Ca|Drupal|2018-10-24|TBD|[Apply](https://badcamp.net/)|
+
 
 ## Contributing Guidelines
 Please be courteous and keep the exact same format as the first example. It would be lovely if you can keep the events in order of "EVENT DATE." :)
