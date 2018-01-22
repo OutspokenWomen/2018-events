@@ -34,6 +34,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |SANDcamp|San Diego, CA|Drupal|2018-03-23|2018-03-01|[Apply](https://www.sandcamp.org/)|
 |WordCamp Rotterdam|Rotterdam, The Netherlands|WordPress|2018-03-23|2018-02-28|
 |CodePaLouSa|Louisville, KY|All Things SDLC|2018-03-28|01-19-18|[Apply](http://cplspeakers.azurewebsites.net/)|
+|Stanford Drupal Camp|Palo Alto, CA|Drupal|2018-04-06|TBD|[Apply](http://web.stanford.edu/group/drupal/cgi-bin/drupalcamp-static/index.html)|
 |WordCamp Torino|Torino, Italy|WordPress|2018-04-06|2018-02-02|[Apply](https://2018.torino.wordcamp.org/2018/01/10/aperta-la-call-for-speakers-per-wordcamp-torino-2018/)|
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2018-04-07|2018-02-11|[Apply](https://2018.jacksonville.wordcamp.org/2018/01/12/call-for-speakers/)|
 |DrupalCon Nashville|Nashville, TN|Drupal|2018-04-09|2018-01-24|[Apply](https://events.drupal.org/nashville2018/submit-session)|
@@ -42,6 +43,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |WordCamp San Diego|San Diego, CA|WordPress|2018-03-14|TBD|[Apply](https://2018.sandiego.wordcamp.org/)|
 |Twin Cities Code Camp|Bloomington, MN|All Open Source|2018-04-22|2018-03-04|[Apply](https://twincitiescodecamp.com/#/Events/22/talks)|
 |WordCamp Retreat Soltau|Soltau, Germany|WordPress|2018-05-04|2018-02-18|[Apply](https://2018-soltau.retreat.wordcamp.org/call-for-speakers-activities/)|
+|Utah Drupal Camp|Utah|Drupal|2018-05-04|TBD|[Apply](http://2018.drupalutah.org/)|
 |WordCamp Bari|Bari, Italy|WordPress|2018-05-11|TBD|[Apply](https://2018.bari.wordcamp.org/)|
 |WordCamp Dayton|Dayton, OH|WordPress|2018-05-18|2018-02-15|[Apply](https://2018.dayton.wordcamp.org/2017/12/29/speaker-submissions-are-open/)|
 |WordCamp Belfast|Belfast, Northern Ireland|WordPress|2018-05-26|2018-03-31|[Apply](https://2018.belfast.wordcamp.org/call-for-speakers/)|
@@ -49,9 +51,11 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
 |WordCamp Europe|Belgrade, Serbia|WordPress|2018-06-14|2018-01-15|[Apply](https://2018.europe.wordcamp.org/)|
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
+|Angular Camp 2018|TBD|JavaScript|2018-07-18|TBD|[Apply](https://ti.to/angularcamp/angularcamp-2018)|
 |WPCampus 2018|TBD|WordPress, Higher Ed|July 2018|Open Feb 2018|[Apply](https://wpcampus.org/)|
 |Drupal Camp Colorado|Denver, Co|Drupal|2018-08-03|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
+|Drupal GovCon|Washington DC|Drupal, Government|2018-08-22|TBD|[Apply](https://groups.drupal.org/node/517533)|
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
 |All Things Open|Raleigh, NC|Open Source|2018-10-21|TBD|[Apply](https://allthingsopen.org/)|
 |Bay Area Drupal(BAD) Camp|Berkeley, Ca|Drupal|2018-10-24|TBD|[Apply](https://badcamp.net/)|
