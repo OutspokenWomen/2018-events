@@ -20,6 +20,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |WordCamp Lancaster|Lancaster, PA|WordPress|2018-03-03|2018-01-01|[Apply](https://2018.lancasterpa.wordcamp.org/schedule/)|
 |WordCamp Antwerp|Antwerp, Belgium|WordPress|2018-03-03|2018-01-01|[Apply](https://2018.antwerp.wordcamp.org/)|
 |MidCamp|Chicago, IL|Drupal|2018-03-08|2018-01-26|[Apply](https://www.midcamp.org/submitted-sessions)|
+|SoCal Linux Expo (SCaLE)|Pasadena, CA|Open Source|2018-03-08|2017-10-31|[Apply](http://www.socallinuxexpo.org/scale/16x/cfp)|
 |Midwest PHP|Bloomington, MN|PHP|2018-03-09|2018-01-01|[Apply](https://2018.midwestphp.org/)|
 |WordCamp Paris|Paris, France|WordPress|2018-03-09|2018-01-01|[Apply](https://2018.paris.wordcamp.org/programme/)|
 |WordCamp Greenville|Greenville, SC|WordPress|2018-03-10|2018-01-31|[Apply](https://2018.greenville.wordcamp.org/call-for-speakers/)|
@@ -46,12 +47,13 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |WordCamp Bari|Bari, Italy|WordPress|2018-05-11|TBD|[Apply](https://2018.bari.wordcamp.org/)|
 |WordCamp Dayton|Dayton, OH|WordPress|2018-05-18|2018-02-15|[Apply](https://2018.dayton.wordcamp.org/2017/12/29/speaker-submissions-are-open/)|
 |WordCamp Belfast|Belfast, Northern Ireland|WordPress|2018-05-26|2018-03-31|[Apply](https://2018.belfast.wordcamp.org/call-for-speakers/)|
+|Texas Linux Fest|Austin, TX|Open Source|2018-06-08|2018-01-14|[Apply](https://2018.texaslinuxfest.org/call-for-papers-9)|
 |Open Source North|Bloomington, MN|All Open Source|2018-06-14|2018-03-14|[Apply](http://opensourcenorth.com/)|
 |WordCamp Europe|Belgrade, Serbia|WordPress|2018-06-14|2018-01-15|[Apply](https://2018.europe.wordcamp.org/)|
 |OSCON|Portland, OR|Open Source|2018-07-16|2018-01-30|[Apply](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)|
 |Angular Camp 2018|TBD|JavaScript|2018-07-18|TBD|[Apply](https://ti.to/angularcamp/angularcamp-2018)|
 |WPCampus 2018|TBD|WordPress, Higher Ed|July 2018|Open Feb 2018|[Apply](https://wpcampus.org/)|
-|Drupal Camp Colorado|Denver, Co|Drupal|2018-08-3|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
+|Drupal Camp Colorado|Denver, Co|Drupal|2018-08-03|TBD|[Apply](https://2018.drupalcampcolorado.org/)|
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
 |Drupal GovCon|Washington DC|Drupal, Government|2018-08-22|TBD|[Apply](https://groups.drupal.org/node/517533)|
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
