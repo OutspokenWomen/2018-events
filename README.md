@@ -57,6 +57,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |DefCon 26|Las Vegas, NV|Variety of Tech|2018-08-09|2018-05-01|[Apply](https://www.defcon.org/html/defcon-26/dc-26-cfp.html)|
 |Drupal GovCon|Washington DC|Drupal, Government|2018-08-22|TBD|[Apply](https://groups.drupal.org/node/517533)|
 |Open Source Summit|Vancouver, Canada|Open Source|2018-08-29|2018-04-29|[Apply](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/)|
+|DrupalCorn Camp|Des Moines, IA|Drupal|2018-19-27|TBD|[Apply](https://2018.drupalcorn.org/)|
 |All Things Open|Raleigh, NC|Open Source|2018-10-21|TBD|[Apply](https://allthingsopen.org/)|
 |Bay Area Drupal(BAD) Camp|Berkeley, Ca|Drupal|2018-10-24|TBD|[Apply](https://badcamp.net/)|
 
